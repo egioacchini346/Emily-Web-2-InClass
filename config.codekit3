@@ -21,6 +21,19 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/deploy\/img\/Section 1\/hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 337746,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Section 1\/hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
