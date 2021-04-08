@@ -261,6 +261,30 @@
       "oAP" : "\/dev\/Section 3.html",
       "oF" : 0
     },
+    "\/dev\/Section 4.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/Section 4.html",
+      "oF" : 0
+    },
+    "\/dev\/Section 5.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/Section 5.html",
+      "oF" : 0
+    },
+    "\/Footer.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/Footer.html",
+      "oF" : 0
+    },
     "\/README.md" : {
       "cB" : 0,
       "cS" : 0,
